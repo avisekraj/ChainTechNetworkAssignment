@@ -24,8 +24,7 @@ This is a simple React application that allows users to create and manage accoun
 3. Start the development server:
    ```bash
    npm start
-4. ```bash
-   Open your browser and go to [http://localhost:3000](http://localhost:3000).
+4. Open your browser and go to [localhost](http://localhost:3000).
 
 ## Code Structure
 
